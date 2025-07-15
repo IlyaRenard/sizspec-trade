@@ -4,7 +4,7 @@ module.exports = withMT({
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     fontFamily: {
-      sans: ["Open Sans", "sans-serif"],
+      'montserrat': ['Montserrat', 'sans-serif'],
     },
     extend: {},
   },
